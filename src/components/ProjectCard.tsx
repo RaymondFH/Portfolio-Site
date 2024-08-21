@@ -18,7 +18,7 @@ const ProjectCard: React.FC<ProjectProps> = ({ title, description, image, tags, 
         <h3 className="text-2xl font-semibold mb-2 text-gray-800">{title}</h3>
         <p className="text-gray-600 mb-4">{description}</p>
         <div className="mb-4">
-          {tags.map((tag: string, index: number) => (
+          {tags.map((tag, index) => (
             <span key={index} className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
               {tag}
             </span>

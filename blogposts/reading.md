@@ -7,7 +7,7 @@ excerpt: "A look at my current reading list, recent reads, and future book plans
 
 *And what's next*
 
-![Reading List](/images/reading-list.png "My Reading Collection")
+![Reading List](/images/reading-list.jpg "My Reading Collection")
 
 I own a lot of books and often switch between physical books, e-books, and Audible to spend long hours reading.
 

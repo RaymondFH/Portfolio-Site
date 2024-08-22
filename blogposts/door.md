@@ -6,7 +6,7 @@ excerpt: "Reflections on learning, AI tools, and the power of side projects in t
 
 *And there was a window*
 
-![Open Door](/images/open-door.png "A door opening to new opportunities")
+![Open Door](/images/open-door.jpg "A door opening to new opportunities")
 
 I don't regret spending ten years on music and audio. The only thing I regret is not having a side project. There is a unique-to-our-lives window that is open right now. Thanks to AI tools, people like me (and you?) can skip most of the busy work involved in the process of learning new things. 
 

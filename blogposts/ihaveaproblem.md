@@ -1,6 +1,6 @@
 ---
 title: "Ihaveaproblem.xyz"
-date: "2024-08-22"
+date: "2024-08-19"
 excerpt: "Introducing a new AI-powered web app that recommends Bible passages to help solve personal problems."
 ---
 

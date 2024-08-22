@@ -1,6 +1,6 @@
 ---
 title: "The Real Ancient Aliens"
-date: "2024-08-22"
+date: "2024-07-25"
 excerpt: "Exploring the possibility of fungi as Earth's original extraterrestrial influencers."
 ---
 

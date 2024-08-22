@@ -25,7 +25,7 @@ const projects = [
   },
   {
     title: "Music Production Portfolio",
-    description: "A collection of music albums I've written, produced, and/or engineered.",
+    description: "A collection of some music I've written, produced, and/or engineered.",
     image: "/images/music-portfolio.jpg",
     tags: ["Audio Engineering", "Music Production", "Mixing"],
     link: "https://open.spotify.com/playlist/1vjNIw6GNF9LeBJYLvOiCE"

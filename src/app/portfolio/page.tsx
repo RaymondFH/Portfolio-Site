@@ -20,14 +20,14 @@ const projects = [
     title: "Personal Blog",
     description: "A casual blog and worklog where I share insights on philosophy, my work, and technology.",
     image: "/images/tech-blog.jpg",
-    tags: ["Next.js", "Content Creation", "Writing"],
+    tags: ["JavaScript", "Content Creation", "Writing"],
     link: "https://coolguyblog.com"
   },
   {
     title: "Music Production Portfolio",
     description: "A collection of some music I've written, produced, and/or engineered.",
     image: "/images/music-portfolio.jpg",
-    tags: ["Audio Engineering", "Music Production", "Mixing"],
+    tags: ["Audio Engineering", "Music Production", "Project Management"],
     link: "https://open.spotify.com/playlist/1vjNIw6GNF9LeBJYLvOiCE"
   },
   // Add more projects as needed

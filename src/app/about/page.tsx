@@ -17,6 +17,13 @@ const AboutPage = () => {
           <p className="text-xl">
             A multifaceted professional with a passion for technology, creativity, and continuous learning.
           </p>
+          <br />
+          <p>
+            <a href='https://github.com/RaymondFH' className="text-blue-300 hover:text-blue-800 hover:underline">GitHub</a> | 
+            <a href='https://www.linkedin.com/in/rhousteauii/' className="text-blue-300 hover:text-blue-800 hover:underline"> LinkedIn</a> |
+            <a href='https://coolguyblog.com' className="text-blue-300 hover:text-blue-800 hover:underline"> Worklog</a> | 
+            <a href='https://substack.com/@coolguyblog' className="text-blue-300 hover:text-blue-800 hover:underline"> Substack</a>
+          </p>
         </div>
       </div>
       

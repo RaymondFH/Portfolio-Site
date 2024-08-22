@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { FaGithub, FaLinkedin, FaBlog, FaNewspaper } from 'react-icons/fa'
 
 export default function Home() {
@@ -6,7 +7,19 @@ export default function Home() {
     <div className="bg-gray-50 min-h-screen">
       <div className="container mx-auto px-4 py-12 text-center">
         <h1 className="text-5xl font-bold mb-4 text-gray-900">Raymond Housteau II</h1>
-        <p className="text-xl mb-8 text-gray-500">Web Developer | Audio Engineer | Digital Marketer</p>
+        <p className="text-xl mb-8 text-gray-700">Web Developer | Audio Engineer | Digital Marketer</p>
+        
+        {/* Circular photo */}
+        <div className="mb-8">
+          <Image
+            src="/images/bass.jpg" 
+            alt="Raymond Housteau II"
+            width={196}
+            height={196}
+            className="rounded-full mx-auto shadow-lg"
+          />
+        </div>
+
         <div className="bg-white shadow-lg rounded-lg p-8 mb-12 max-w-2xl mx-auto border border-gray-200">
           <h2 className="text-2xl font-semibold mb-4 text-gray-800">Welcome to My Portfolio</h2>
           <p className="mb-6 text-gray-600">
@@ -30,7 +43,7 @@ export default function Home() {
           </div>
         </div>
         
-        {/* New links section */}
+        {/* Links section */}
         <div className="mt-16 bg-white shadow-lg rounded-lg p-8 max-w-4xl mx-auto border border-gray-200">
           <h3 className="text-2xl font-semibold mb-6 text-gray-800">Connect With Me</h3>
           <div className="flex justify-center space-x-8">

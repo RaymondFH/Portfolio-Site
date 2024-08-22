@@ -18,7 +18,7 @@ const projects = [
   },
   {
     title: "Personal Blog",
-    description: "A casual blog where I share insights on philosophy, my work, and technology.",
+    description: "A casual blog and worklog where I share insights on philosophy, my work, and technology.",
     image: "/images/tech-blog.jpg",
     tags: ["Next.js", "Content Creation", "SEO"],
     link: "https://coolguyblog.com"

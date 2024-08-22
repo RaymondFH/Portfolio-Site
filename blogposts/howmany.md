@@ -7,7 +7,7 @@ excerpt: "Exploring the balance between skepticism and open-mindedness in an era
 **How many of us?**
 *The search for healthy skepticism*
 
-![Skepticism](/images/skepticism.jpg "A person looking thoughtfully at a complex web of information")
+![Skepticism](/images/mulder.png "A person looking thoughtfully at a complex web of information")
 
 A guiding principle in my life is that "there is no bad information." I've always been drawn to fringe topics: UFOs, ghosts, conspiracies, alternative history, and the like. For me, these subjects scratch the same itch that science fiction might for others. Delving into these areas requires parallel research to maintain one's perspective and sanity.
 

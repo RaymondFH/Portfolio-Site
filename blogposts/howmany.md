@@ -4,7 +4,6 @@ date: "2024-07-28"
 excerpt: "Exploring the balance between skepticism and open-mindedness in an era of widespread conspiracy theories and information overload."
 ---
 
-**How many of us?**
 *The search for healthy skepticism*
 
 ![Skepticism](/images/mulder.png "A person looking thoughtfully at a complex web of information")

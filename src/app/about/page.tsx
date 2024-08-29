@@ -33,7 +33,7 @@ const AboutPage = () => {
           With a diverse skill set spanning digital marketing, audio engineering, and web development, I bring a unique perspective to every project I undertake. My experience includes:
         </p>
         <ul className="list-disc pl-6 mb-4">
-          <li className="mb-2"><strong>Web Development</strong>: Proficient in modern web technologies including React, Next.js, and full-stack JavaScript development. I've created complex web applications, such as an AI-powered tool that provides Biblical wisdom (ihaveaproblem.xyz).</li>
+          <li className="mb-2"><strong>Web Development</strong>: Proficient in modern web technologies including React, Next.js, and full-stack JavaScript development. I've created complex web applications, such as an AI-powered tool that provides Biblical wisdom (ProverbsAI.com).</li>
           <li className="mb-2"><strong>Digital Marketing</strong>: Strong foundation in digital marketing strategies, content creation, and online presence optimization.</li>
           <li className="mb-2"><strong>Audio Engineering</strong>: Extensive experience in audio production, sound design, and music technology, showcasing my technical proficiency and creative problem-solving skills.</li>
           <li className="mb-2"><strong>Content Creation</strong>: Skilled in creating engaging, informative content, as demonstrated through my personal tech blog (coolguyblog.com).</li>

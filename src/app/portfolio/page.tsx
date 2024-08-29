@@ -3,11 +3,11 @@ import ProjectCard from '../../components/ProjectCard';
 
 const projects = [
   {
-    title: "AI-Powered Biblical Wisdom Tool",
+    title: "ProverbsAI.com",
     description: "An application that uses Claude AI to provide Biblical wisdom for problem-solving.",
     image: "/images/ai-bible-tool.jpg",
     tags: ["Next.js", "React", "AI Integration", "Claude API"],
-    link: "https://ihaveaproblem.xyz"
+    link: "https://proverbsai.com"
   },
   {
     title: "League of Legends Performance Tracker",
